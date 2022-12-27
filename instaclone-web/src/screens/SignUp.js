@@ -39,7 +39,7 @@ const Subtitle = styled(FatLink)`
 function SignUp() {
   return (
     <AuthLayout>
-      <PageTitle title={Sign up} />
+      <PageTitle title={"Sign up"} />
       <FormBox>
         <HeaderContainer>
           <FontAwesomeIcon icon={faInstagram} size="3x" />
